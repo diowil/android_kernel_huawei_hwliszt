@@ -1,1 +1,1 @@
-# android_kernel_huawei_hwliszt
+# android_kernel_huawei_liszt
